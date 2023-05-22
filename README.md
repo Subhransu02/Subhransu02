@@ -194,4 +194,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=subhransu02" />
 </details>
 
- 
+ <p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo" alt="back to top" /></a></p>
