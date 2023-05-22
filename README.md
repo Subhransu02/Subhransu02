@@ -20,66 +20,13 @@
     <br>🙂 I feel happy after receiving support or assistance from experienced ones.<br>🦾 My strength is the way I
     respond the breakpoints of life.<br>⛳ Aim is to create an Eternal Identity in the world of Technology.
 
-    <br />
+    
 </div>
-
-<!-- ## ⚙️ Development
-**✍🏼 Web Development**  &nbsp; 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-<!-- 
-**📚 Framework**  &nbsp; 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) -->
-
-<!-- **🔨 Build Tool** &nbsp; 
-![Git](https://img.shields.io/badge/git-%26A52A2A.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white)
-
-<br />
-
-## ⚙️ Programming
-**✍🏼 Languages**  &nbsp; 
-![C](https://img.shields.io/badge/C-%23E34F26.svg?style=for-the-badge&logo=c&logoColor=white)
-![CPP](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-
-**📚 Others**  &nbsp; 
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-<br/>
-
-## ⚙️ Non-technical
-**✍🏼 Graphic Design**  &nbsp; 
-![Illustrator](	https://aleen42.github.io/badges/src/illustrator.svg)
-![Canva](https://img.shields.io/badge/Canva-BB2FBB?style=for-the-badge&logo=canva&logoColor=white)
-
-
-**📚 Content Writing**  &nbsp; 
-![Latex](https://img.shields.io/badge/Latex-BB6I4A?style=for-the-badge&logo=latex&logoColor=white)
-
-<br/>
-
-## ⚙️ OS
-**✍🏼 PC**  &nbsp; 
-![Windows](	https://img.shields.io/badge/Windows7-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Windows](	https://img.shields.io/badge/Windows10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-**📚 SmartPhone**  &nbsp; 
-![Markdown](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-
-<br/> -->
-
-<!-- ## 📦 NPM Packages Published by Me
-[![npm](https://img.shields.io/npm/dt/type-detail?label=type-detail)](https://www.npmjs.com/package/type-detail)
-[![npm](https://img.shields.io/npm/dt/constancy?label=constancy)](https://www.npmjs.com/package/constancy) -->
-
-<!-- ## My Coding Challenge Rank
-[![LeetCode user DungGramer](https://img.shields.io/badge/dynamic/json?style=flat-square&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https://www.codechef.com/users/junior_18&logo=codechef&logoColor=yellow)](https://www.codechef.com/users/junior_18)-->
 
 
 ## 💻 What I talk about!
 <div align="center">
-    <img src="./Gifs/giphy (2).gif" style="max-height: 200px">
+    <img src="giphy (2).gif" style="max-height: 200px">
 </div>
 <div style="display: flex; flex-direction: column">
     <div align="center">
@@ -214,7 +161,7 @@
 
 <br />
 
-<img align="right" alt="GIF" src="./Gifs/coding.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="coding.gif" width="408" height="318" />
 
 **Talking about Personal Stuffs:**
 
@@ -248,10 +195,4 @@
     <img src="https://github-profile-trophy.vercel.app/?username=subhransu02" />
 </details>
 
-<!-- <img alt=" github contribution snake animation"
-        src="https://github.com/DungGramer/DungGramer/blob/output/github-contribution-grid-snake.svg">
-
-    <br><br>-->
-    <p align="right"><a href="#top"><img
-                src="https://img.shields.io/static/v1?label&message=back+to+top&color=0d2a52&style=for-the-badge&logo"
-                alt="back to top" /></a></p>
+ 
