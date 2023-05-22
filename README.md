@@ -174,15 +174,14 @@
 ## 📊 My GitHub Stats
 
 <details>
-    <summary>General Stats</summary>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhransu02&show_icons=true&locale=en&layout=compact" />
+  <summary>General Stats</summary>
+  <img height="180em" src=	"https://github-readme-stats.vercel.app/api?username=Subhransu02&theme=blue-green" />
 </details>
 
 <details>
     <summary>Top Languages</summary>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img height=180em
-            src="https://github-readme-stats.vercel.app/api?username=subhransu02&show_icons=true&locale=en" />
+        <img height=180em src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Subhransu02&theme=blue-green"/>
     </a>
     <p><b>*Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect
         experience or skill level.</p>
